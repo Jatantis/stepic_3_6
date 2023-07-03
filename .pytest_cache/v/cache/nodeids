@@ -1,0 +1,4 @@
+[
+  "test_items.py::TestLogin::test_guest_should_see_login_link",
+  "test_items.py::test_button_present"
+]
